@@ -153,3 +153,4 @@ bindkey '^[[1~' beginning-of-line
 bindkey '^[[4~' end-of-line
 
 alias cat=batcat
+alias top=htop
